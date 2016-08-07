@@ -1,0 +1,16 @@
+  My Mistress the Leviathan
+
+Animation, additional code, direction, graphics, models:  Warma
+Code:                                                     Trilkk
+Music, synth:                                             Juippi
+
+Odroid C1+ Intro, ~70kb. Unfortunately we could not make it to 64kb due to
+my failings in the modelling and animation department, but this should be
+good enough.
+
+-Warma
+
+NOTE: When running on the real machine, you may need to build SDL2 packages
+yourself. The packages exist in the Hardkernel repository, but at the time
+of development, installing them uninstalls the OpenGL ES2 driver. A prebuilt
+Debian package built for Odroid C1+ has been included in rel/.
